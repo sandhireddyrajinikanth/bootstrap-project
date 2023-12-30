@@ -1,0 +1,152 @@
+
+section{
+    width: 100%;
+
+}
+
+a:hover{
+    color: red;
+}
+
+
+.img-fluid{
+    max-width: 100%;
+} 
+.btn-styles{
+background-color:#118aef;
+border-color: #118aef;
+padding: 6px 20px;
+display: inline-block;
+border-radius: 5px;
+color: #fff;
+font-size: 16px;
+text-decoration: none;
+font-weight: 600;
+text-align: center;
+letter-spacing: 1px;
+transition: all .5s ease;
+}
+
+.top-header1 ul li img{
+    width: 22px;
+   
+}
+.top-header1 ul li a{
+   vertical-align: middle;
+    color: #fff; 
+    text-decoration: none;
+    font-weight: 500;
+}
+.top-header{
+     background-color:#1a73e8;; 
+     color:#fff; 
+    padding: 5px 0px;
+}
+
+/* .top-header1 ul{
+    margin-bottom: 0px;
+}
+ */
+.top-header1 ul li{
+    display: flex;
+
+}
+.top-header2 ul, .carrer ul, .top-header1 ul{ 
+    margin-bottom: 0px;
+
+} 
+.top-header2 ul li{
+margin-right: 30px;
+font-weight: 500;
+font-size: 13px;
+}
+.top-header2 ul li:last-child{
+    margin-right: 0px;
+}
+.logo1{
+    width: 250px;
+    padding-top: 10px;
+}
+ 
+.carrer ul li{
+    padding: 24px 15px;
+    font-size: 15px;
+    font-weight: 700;
+}
+.sign-in a{
+    padding: 10px;
+    font-size: 20px;
+    text-decoration: none;
+}
+.banner{
+    background-image: url("../images/blog-banner-img.webp");
+    padding: 84px 0px;
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+    position: relative;
+}
+.two1 ul span{
+    padding:  0px 10px;
+} 
+.two1 ul a:hover{
+    text-decoration: none;
+    color: black; 
+   font-weight: 500;  
+}
+.two{
+    background-color: #f3f3f3;
+}
+/* .filter{
+    margin: 30px 0px;
+} */
+
+.filter1 ul li a{
+    text-decoration: none;
+    color: #000;
+    font-weight: 500;
+
+
+} 
+
+.filter1 ul li {
+    display: inline-block;
+    padding: 5px 10px;
+    border-radius: 5px;
+    border: 1px solid #118aef;
+    transition: 0.5s all ease;
+    margin-right: 15px;
+
+}
+.blogs-list-box{
+overflow: hidden;
+-webkit-transition: all .25s ease-out;
+transition: all .25s ease-out;
+cursor: pointer;
+margin-bottom: 30px !important;
+border-radius: 5px 5px 0px 0px;
+box-shadow: 0 2px 5px 0 rgb(17 121 239 / 15%);
+border: 1px solid #e6ecef;
+}
+.blogs-img{
+    overflow: hidden;
+}
+.blogs-text{
+
+position: relative;
+padding: 20px 20px 30px;
+-webkit-transition: all .45s ease-out;
+transition: all .45s ease-out;
+}
+.middle{
+
+   background: #e6e6e6;
+    padding: 5px 10px;
+    border-radius: 15px;
+    font-size: 14px;
+    font-weight: 500;
+    color: #032D60;
+    margin-bottom: 10px;
+}
+
+ 
